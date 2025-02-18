@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Aryan Bhimani</h1>
-<h3 align="center">🚀 Software Engineer | Mobile App Developer | Project Manager</h3>
+<h3 align="center">🚀 Software Engineer | Mobile App Developer | Project Management</h3>
 
 <br/>
 
