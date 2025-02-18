@@ -31,14 +31,14 @@ With a strong background in <b>Project Management</b>, I specialize in Agile and
 
 <h2>📫 Connect with Me</h2>
 <p align="center">
+   <a href="https://dev-aryanbhimani.pantheonsite.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
+  </a>
   <a href="https://www.linkedin.com/in/aryanbhimani/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:aryan.bhimani.93@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://dev-aryanbhimani.pantheonsite.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://github.com/aryanbhimani" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
