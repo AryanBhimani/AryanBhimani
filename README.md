@@ -21,7 +21,7 @@ With a strong background in <b>Project Management</b>, I specialize in Agile and
 
 <h2>🔹 Skills & Expertise</h2>
 <ul>
-  <li><b>Mobile Development:</b> Android (Java, Kotlin, XML), Flutter (Dart, Firebase)</li>
+  <li><b>Mobile Development:</b> Android (Java, Kotlin, XML), Flutter (Dart)</li>
   <li><b>Backend & Database:</b> Firebase, MySQL, REST APIs</li>
   <li><b>Project Management:</b> Agile, Scrum, Jira, Trello</li>
   <li><b>Tools & Technologies:</b> Git, CI/CD, Firebase, Cloud Services</li>
