@@ -46,7 +46,7 @@ With a strong background in <b>Project Management</b>, I specialize in Agile and
   <a href="https://x.com/aryan46022" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)">
   </a>
-  <a href="https://www.youtube.com/@aryanbhimani" target="_blank">
+  <a href="https://www.youtube.com/@aryanbhimani940" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
 </p>
