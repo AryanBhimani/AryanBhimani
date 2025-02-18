@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Aryan Bhimani</h1>
-<h3 align="center">🚀 Software Engineer</h3>
+<h3 align="center">🚀 Software Engineer | Mobile App Developer | Project Manager</h3>
 
 <br/>
 
@@ -11,17 +11,25 @@
 
 <br/>
 
-<h2>🔹 Skills</h2>
+<h2>🚀 About Me</h2>
+<p>
+I am a passionate <b>Software Engineer</b> with expertise in <b>Android (Java & Kotlin)</b> and <b>Flutter (Dart)</b>. 
+With a strong background in <b>Project Management</b>, I specialize in Agile and Scrum methodologies to drive efficient software development.
+</p>
+
+<br/>
+
+<h2>🔹 Skills & Expertise</h2>
 <ul>
-  <li><b>Android Development:</b> Java, Kotlin, XML, Firebase, MySQL</li>
-  <li><b>Flutter Development:</b> Dart, Firebase, REST APIs</li>
-  <li><b>Tools & Technologies:</b> Git, CI/CD, Agile Methodologies</li>
+  <li><b>Mobile Development:</b> Android (Java, Kotlin, XML), Flutter (Dart, Firebase)</li>
+  <li><b>Backend & Database:</b> Firebase, MySQL, REST APIs</li>
   <li><b>Project Management:</b> Agile, Scrum, Jira, Trello</li>
+  <li><b>Tools & Technologies:</b> Git, CI/CD, Firebase, Cloud Services</li>
 </ul>
 
 <br/>
 
-<h2>📫 Connect with me</h2>
+<h2>📫 Connect with Me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/aryanbhimani/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -29,7 +37,7 @@
   <a href="mailto:aryan.bhimani.93@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://dev-aryanbhimani.pantheonsite.io/">
+  <a href="https://dev-aryanbhimani.pantheonsite.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
   </a>
 </p>
