@@ -40,4 +40,13 @@ With a strong background in <b>Project Management</b>, I specialize in Agile and
   <a href="https://dev-aryanbhimani.pantheonsite.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
   </a>
+  <a href="https://github.com/aryanbhimani" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://x.com/aryan46022" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)">
+  </a>
+  <a href="https://www.youtube.com/@aryanbhimani" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
 </p>
