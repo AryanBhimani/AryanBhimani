@@ -31,9 +31,9 @@ With a strong background in <b>Project Management</b>, I specialize in Agile and
 
 <h2>📫 Connect with Me</h2>
 <p align="center">
-   <a href="https://dev-aryanbhimani.pantheonsite.io/" target="_blank">
+<!--    <a href="https://dev-aryanbhimani.pantheonsite.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/aryanbhimani/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
