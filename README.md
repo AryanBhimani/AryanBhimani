@@ -39,15 +39,7 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanbhimani&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanbhimani&theme=tokyonight" alt="GitHub Streak" height="180em"/>
-</p>
-
----
-
-<h2>📫 Connect with Me</h2>
+## 📫 Connect with Me
 <p align="center">
    <a href="https://linktr.ee/mobintix" target="_blank">
     <img src="https://img.shields.io/badge/Mobintix-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
