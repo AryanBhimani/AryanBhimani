@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#0A66C2;">Aryan Bhimani</span></h1>
-<h3 align="center">🚀 Founder of <a href="https://mobintix.com" target="_blank">Mobintix</a> | Software Engineer | Mobile App Developer | Project Manager</h3>
+<h3 align="center">🚀 Founder of <a href="https://linktr.ee/mobintix" target="_blank">Mobintix</a> | Software Engineer | Mobile App Developer | Project Manager</h3>
 
 <br/>
 
 <!-- Founder Badge -->
 <div align="center">
-  <a href="https://mobintix.com" target="_blank">
+  <a href="https://linktr.ee/mobintix" target="_blank">
     <img src="https://img.shields.io/badge/Founder-Mobintix-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Mobintix" />
   </a>
 </div>
@@ -24,7 +24,7 @@
 ---
 
 ## 🚀 About Me  
-💡 I’m a **Software Engineer** and **Founder of [Mobintix](https://mobintix.com)**, where we design and build modern digital solutions.  
+💡 I’m a **Software Engineer** and **Founder of [Mobintix](https://linktr.ee/mobintix)**, where we design and build modern digital solutions.  
 📱 Specialized in **Android (Java & Kotlin)** & **Flutter (Dart)** for cross-platform mobile apps.  
 📊 Experienced in **Agile & Scrum Project Management**, driving high-performance teams.  
 ☁️ Skilled in **Firebase, MySQL, REST APIs, and Cloud Integration**.  
