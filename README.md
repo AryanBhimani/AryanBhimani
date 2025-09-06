@@ -1,33 +1,51 @@
-<h1 align="center">👋 Hi, I'm Aryan Bhimani</h1>
-<h3 align="center">🚀 Software Engineer | Mobile App Developer | Project Management</h3>
+<h1 align="center">👋 Hi, I'm <span style="color:#0A66C2;">Aryan Bhimani</span></h1>
+<h3 align="center">🚀 Founder of <a href="https://mobintix.com" target="_blank">Mobintix</a> | Software Engineer | Mobile App Developer | Project Manager</h3>
 
 <br/>
 
+<!-- Founder Badge -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Android-Java%20%7C%20Kotlin-brightgreen?style=for-the-badge&logo=android" alt="Android" />
-  <img src="https://img.shields.io/badge/Flutter-Dart-blue?style=for-the-badge&logo=flutter" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Project%20Management-Scrum%20%7C%20Agile-orange?style=for-the-badge&logo=trello" alt="Project Management" />
+  <a href="https://mobintix.com" target="_blank">
+    <img src="https://img.shields.io/badge/Founder-Mobintix-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Mobintix" />
+  </a>
 </div>
 
 <br/>
 
-<h2>🚀 About Me</h2>
-<p>
-I am a passionate <b>Software Engineer</b> with expertise in <b>Android (Java & Kotlin)</b> and <b>Flutter (Dart)</b>. 
-With a strong background in <b>Project Management</b>, I specialize in Agile and Scrum methodologies to drive efficient software development.
+<!-- Tech Stack Badges -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Android-Java%20%7C%20Kotlin-brightgreen?style=for-the-badge&logo=android" alt="Android" />
+  <img src="https://img.shields.io/badge/Flutter-Dart-blue?style=for-the-badge&logo=flutter" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Project%20Management-Scrum%20%7C%20Agile-orange?style=for-the-badge&logo=trello" alt="Project Management" />
+  <img src="https://img.shields.io/badge/Firebase-Backend-yellow?style=for-the-badge&logo=firebase" alt="Firebase" />
+  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</div>
+
+---
+
+## 🚀 About Me  
+💡 I’m a **Software Engineer** and **Founder of [Mobintix](https://mobintix.com)**, where we design and build modern digital solutions.  
+📱 Specialized in **Android (Java & Kotlin)** & **Flutter (Dart)** for cross-platform mobile apps.  
+📊 Experienced in **Agile & Scrum Project Management**, driving high-performance teams.  
+☁️ Skilled in **Firebase, MySQL, REST APIs, and Cloud Integration**.  
+
+---
+
+## 🛠️ Skills & Expertise  
+✅ **Mobile Development:** Android (Java, Kotlin, XML), Flutter (Dart)  
+✅ **Backend & Databases:** Firebase, MySQL, REST APIs  
+✅ **Project Management:** Agile, Scrum, Jira, Trello  
+✅ **Tools & Technologies:** Git, CI/CD, Cloud Services  
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryanbhimani&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanbhimani&theme=tokyonight" alt="GitHub Streak" height="180em"/>
 </p>
 
-<br/>
-
-<h2>🔹 Skills & Expertise</h2>
-<ul>
-  <li><b>Mobile Development:</b> Android (Java, Kotlin, XML), Flutter (Dart)</li>
-  <li><b>Backend & Database:</b> Firebase, MySQL, REST APIs</li>
-  <li><b>Project Management:</b> Agile, Scrum, Jira, Trello</li>
-  <li><b>Tools & Technologies:</b> Git, CI/CD, Firebase, Cloud Services</li>
-</ul>
-
-<br/>
+---
 
 <h2>📫 Connect with Me</h2>
 <p align="center">
